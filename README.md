@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Earth and Science Day!
+
+This (currently under construction page) will eventually be the homepage for all your information and resources about Earth and Science Day at Pontchartrain Elementary School.
+
+## Original Github Pages documentation below...
 
 You can use the [editor on GitHub](https://github.com/earthscienceday/earthscienceday.education/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

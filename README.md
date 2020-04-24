@@ -1,7 +1,3 @@
---
-title: {{site.title}}
---
-
 ## Geology
 
 > Geology is the science that studies what the Earth is made of and the

@@ -8,6 +8,7 @@ Below you'll find a number of learning activities focused on different areas of 
 forces that act on it.
 
 - [**Watch**: Mrs. Ronquillo teaches the Rock Cycle](https://youtu.be/Q9TT44EG8RQ)
+- [**Do**: Rock cycle worksheet](./Rock%20Cycle.pdf)
 - [**Do**: Grow candy rocks!](http://www.minimegeology.com/blog/2009/06/09/growing-rock-candy-crystals-a-sweet-fun-science-experiment/)
 
 -----

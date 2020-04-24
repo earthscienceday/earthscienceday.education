@@ -1,6 +1,16 @@
-## Welcome to Earth and Science Day!
+## Geology
 
-This (currently under construction page) will eventually be the homepage for all your information and resources about Earth and Science Day at Pontchartrain Elementary School.
+> Geology is the science that studies what the Earth is made of and the
+forces that act on it.
+
+### Learning Activities
+
+- [Watch: Mrs. Ronquillo teaches the Rock Cycle](https://youtu.be/Q9TT44EG8RQ)
+- [Do: Grow candy rocks!](http://www.minimegeology.com/blog/2009/06/09/growing-rock-candy-crystals-a-sweet-fun-science-experiment/)
+
+
+
+
 
 ## Original Github Pages documentation below...
 

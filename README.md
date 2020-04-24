@@ -17,8 +17,9 @@ application of the laws of physics to observations of space.
 
 ### Learning Activities
 
-- [**Watch**: How we study space [TEDEd video]](https://ed.ted.com/lessons/how-do-we-study-the-stars-yuan-sen-ting)
+- [**Watch**: How we study space [TED-Ed video]](https://ed.ted.com/lessons/how-do-we-study-the-stars-yuan-sen-ting)
 - [**Do**: Take a look at the night sky above us with this map [map by Skymaps.com]](http://www.skymaps.com/downloads.html)
+- [**Do**: Make a cosmos jar with Mrs. Harvey](https://youtu.be/UWBDnc6G-uQ)
 
 ## Ecology
 
@@ -48,18 +49,48 @@ Archeologists have been studying the Egyptian pyramids for decades and are still
 
 - [**Do**: Take a tour of Pharaoh Ramesses VI tomb](https://my.matterport.com/show/?m=NeiMEZa9d93&mls=1&fclid=IwAR053EhtaZTCi0T3Ezn4zP1NMK-KAocmDsv8BBHFdcGVQGcwXEq3oFQ_0ck)
 
-## Topic
+## Anatomy
 
-> Topic is description
+> Anatomy is the study of the body and how it works.
 
 ### Learning Activities
 
-- [**Watch**: ]()
-- [**Do**: ]()
+How does your body protect itself when you get sick?
 
-## Topic
+- [**Watch**: Learn how your body fights illness [TED-Ed video]](https://youtu.be/oqGuJhOeMek)
 
-> Topic is description
+## Oceanography
+
+> Oceanography: Study of the world’s Oceans
+
+Some of the greatest mysteries that remain on Earth are hidden in the world’s oceans.  Oceanographers are working to solve those mysteries.
+
+- [**Watch**: Learn how we study the oceans [TED-Ed video]](https://www.youtube.com/watch?v=U69LIr0OrNc)
+
+## Science Projects
+
+### Chromatography
+
+For this project you will need:
+
+- A coffee filter
+- Washable markers
+- Squirt bottle with water
+- A paper plate
+
+[**Watch & Do**: Make colors blend with Mrs. Breitling](https://youtu.be/-qR_XnZYTFw)
+
+### Amazing Bouncing Egg
+
+An egg can bounce?! How does it work?  Can you make it happen?
+
+[**Watch & Do**: Make an amazing bouncing egg with Mrs. Breitling](https://youtu.be/Rp_naORMCno)
+
+### Sink or Float: An Egg Experiment
+
+Do you think an egg sinks or floats in water? Is there a way you can change what it does?
+
+- [**Watch & Do**: Follow along with Mrs. Breitling](https://www.youtube.com/watch?v=svELGwT5Dqk&feature=youtu.be)
 
 ### Learning Activities
 

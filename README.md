@@ -92,25 +92,6 @@ Do you think an egg sinks or floats in water? Is there a way you can change what
 
 - [**Watch & Do**: Follow along with Mrs. Breitling](https://www.youtube.com/watch?v=svELGwT5Dqk&feature=youtu.be)
 
-### Learning Activities
+-----
 
-- [**Watch**: ]()
-- [**Do**: ]()
-
-## Topic
-
-> Topic is description
-
-### Learning Activities
-
-- [**Watch**: ]()
-- [**Do**: ]()
-
-## Topic
-
-> Topic is description
-
-### Learning Activities
-
-- [**Watch**: ]()
-- [**Do**: ]()
+Parents, please don't hesitate to [contact Mrs. Harvey](mailto:katherine.harvey@stpsb.org?subject=Earth%20%26%20Science%20Day%20question) if you have questions.

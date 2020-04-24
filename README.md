@@ -1,3 +1,7 @@
+--
+title: {{site.title}}
+--
+
 ## Geology
 
 > Geology is the science that studies what the Earth is made of and the
@@ -5,8 +9,8 @@ forces that act on it.
 
 ### Learning Activities
 
-- [Watch: Mrs. Ronquillo teaches the Rock Cycle](https://youtu.be/Q9TT44EG8RQ)
-- [Do: Grow candy rocks!](http://www.minimegeology.com/blog/2009/06/09/growing-rock-candy-crystals-a-sweet-fun-science-experiment/)
+- [**Watch**: Mrs. Ronquillo teaches the Rock Cycle](https://youtu.be/Q9TT44EG8RQ)
+- [**Do**: Grow candy rocks!](http://www.minimegeology.com/blog/2009/06/09/growing-rock-candy-crystals-a-sweet-fun-science-experiment/)
 
 
 

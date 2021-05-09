@@ -2,6 +2,16 @@ Below you'll find a number of learning activities focused on different areas of 
 
 -----
 
+## Architecture
+
+> Architecture is the science of designing and building structures, especially ones
+that support living in our communities.
+
+- [**Watch**: What Makes Brides So Strong? (SciShow Kids)](https://www.youtube.com/watch?v=oVOnRPefcno)
+- [**Watch & Do**: Design & Build Paper Bridges](https://www.youtube.com/watch?v=qFZGmHbjLSM)
+- [**Watch**: Architecture Adventure (Crash Course Kids)](https://www.youtube.com/watch?v=DkJLbCCI6Zs)
+- [**Watch**: Making Buildings Better Withstand Earthquakes](https://www.youtube.com/watch?v=c25HuZeQsyo)
+
 ## Geology
 
 > Geology is the science that studies what the Earth is made of and the
@@ -86,7 +96,7 @@ For this project you will need:
 
 ### Amazing Bouncing Egg
 
-An egg can bounce?! How does it work?  Can you make it happen?
+An egg can bounce?! How does it work? Can you make it happen?
 
 [**Watch & Do**: Make an amazing bouncing egg with Mrs. Breitling](https://youtu.be/Rp_naORMCno)
 
